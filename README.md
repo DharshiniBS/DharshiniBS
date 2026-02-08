@@ -9,19 +9,19 @@
 [![Linkedin Badge](https://img.shields.io/badge/-dharshinibs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dharshinibs/)](https://www.linkedin.com/in/dharshinibs/)
 [![Gmail Badge](https://img.shields.io/badge/-dharshadharshu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dharshadharshu@gmail.com)](mailto:dharshadharshu@gmail.com) 
 
-- 🎯 Portfolio website: [Portfolio](https://dharshinibs.github.io/)
+- 🌍 Portfolio website: [Portfolio](https://dharshinibs.github.io/)
 ### 👩‍💻 About Me :
-- 📊 Assistant Professor | Computer Science & Engineering
+- 🏢 Assistant Professor | Computer Science & Engineering
 - 🎓 Master of Engineering, MIT Madras | B.E. (CSE), CK College of Engineering & Technology - Anna University
 - 🔎 Exploring Artificial Intelligence.
 - 📜 Focused on Machine Learning, Deep Learning (Neural Networks), NLP, and GenAI (Large Language Models) projects.
 
 
 💻 **Things I love**
-- Java <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- Frontend Development ✍️
-- Machine Learning 🧐
-- Data Science 😬
+- Programming <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- Machine Learning 🤖
+- Generative AI ✨🧠
+- Frontend Development 🌐
 
 ---
 
